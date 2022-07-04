@@ -1,1 +1,1 @@
-I like to program
+I like to program and to track any changes in Git.
